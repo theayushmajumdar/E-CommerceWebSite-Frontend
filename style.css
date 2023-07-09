@@ -720,7 +720,8 @@ margin-bottom: 20px;
 /* why cant i see the icons again, check it here*/
 
 #contact-details .details li i{
-  font-size: 15px;
+  color: blue; /* Change the color as you want */
+  font-size: 20px;
   padding-right: 22px;
 }
 
